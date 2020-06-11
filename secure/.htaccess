@@ -1,0 +1,5 @@
+
+AuthName "Secure Area"
+AuthType Basic
+AuthUserFile /var/www/html/magic/secure/.htpasswd
+require valid-user

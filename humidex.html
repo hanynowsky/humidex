@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Humidex Calculation Form</title>
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Hanine HAMZIOUI">
+
+    <title>Hanine HAMZIOUI - A Junior DevOps</title>
+
+        <style>
+            #main {
+                margin: 50px auto auto auto;                
+                text-align: center;
+                top: 30%;                  
+                color: white;
+             }
+            #warning {
+                color: red;
+            }
+            .btn { 
+                width: 100%;
+            }
+            .jumbotron { 
+                background: #2D353A;
+             }
+        </style>
+    </head>
+<body class="jumbotron">
+
+<div id="main" class="jumbotron" style="max-width:500px;"> 
+<img src="../images/water.png"  style="margin:5px;width:200px;"/>
+<h3>Humidex Calculation</h3>
+<form action="humidex.rb" method="POST" role="form">
+  <div class="form-group">
+    <input class="form-control" id="humidity" name="humidity" placeholder="Relative Humidity" type="number" min="0" max="100" required="true">
+  </div>
+  <div class="form-group">
+    <input  class="form-control" id="temperature" name="temperature" placeholder="Temperature in C°" type="number" min="-30" max="60" required="true">
+  </div>
+  <div class="form-group">
+    <label for="formula" >Formula/Chart </label><input type="checkbox" id="formula" name="formula" value="1" checked="checked" />
+  </div>
+  <button type="submit" class="btn btn-success btn-lg active">Compute</button>
+</form>
+</div>
+<hr />
+<p style="color:white;">
+If you do not know your local relative humidty or temperature values, get them from here <a href='https://www.google.com/?gws_rd=ssl#q=Montreuil+humidity'>Relative Humidity</a>
+
+</p>
+</body>

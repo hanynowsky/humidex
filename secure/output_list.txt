@@ -1,0 +1,463 @@
+srv123:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv142:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv64:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv349:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.9
+srv405:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.9
+srv358:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.9
+srv283:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv512:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv516:GNU bash, version 4.2.37(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv517:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv503:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv80:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv568:GNU bash, version 3.2.33(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv389:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv637:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv125:GNU bash, version 4.1.9(2)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv694:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv701:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv736:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv731:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv45:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv525:GNU bash, version 4.2.37(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv751:GNU bash, version 4.0.28(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv752:GNU bash, version 4.0.28(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv747:GNU bash, version 4.2.37(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv732:GNU bash, version 4.2.37(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv73:GNU bash, version 4.2.45(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv775:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv590:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.14
+srv742:GNU bash, version 4.2.37(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv949:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv86:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv109:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv524:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv203:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv671:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv42:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv951:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv834:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv808:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv70:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv861:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv226:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv37:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv948:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv947:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv961:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv960:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv16:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1008:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv47:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv1024:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv1025:GNU bash, version 4.0.28(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv340:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv992:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv612:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv876:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv963:GNU bash, version 3.2.39(1)-release (x86_64-pc-linux-gnu):5.0.8
+srv417:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv943:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv941:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv976:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv923:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv946:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv945:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv926:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv927:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv952:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv712:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv6:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv344:GNU bash, version 4.2.37(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv1150:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1151:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv761:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv977:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv1106:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv40:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv925:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv940:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv32:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv600:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv1049:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv968:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1103:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1156:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv656:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv511:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv686:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv535:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv122:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv1155:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1158:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1020:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv599:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv265:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv351:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv1042:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv930:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv745:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv915:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv69:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv995:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv604:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1173:GNU bash, version 3.2.25(1)-release (x86_64-redhat-linux-gnu):CentOS release 5.6 (Final)
+srv1178:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1055:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1170:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1171:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv833:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv906:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv309:GNU bash, version 4.2.45(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv1172:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1232:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1176:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv33:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv1249:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1250:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1251:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv174:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv1199:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv141:GNU bash, version 4.2.45(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv758:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv388:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1107:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1168:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1095:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1229:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1233:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv561:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv674:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv510:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv1177:GNU bash, version 3.2.25(1)-release (x86_64-redhat-linux-gnu):CentOS release 5.7 (Final)
+srv194:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv106:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv818:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv641:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv126:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv867:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1262:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1264:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1263:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1265:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1404:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1381:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1396:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1398:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv892:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv1386:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv1395:GNU bash, version 3.2.25(1)-release (x86_64-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1393:GNU bash, version 4.2.37(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv1399:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1433:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1443:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1444:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1445:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1506:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1451:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1455:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1457:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1487:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1488:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1489:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv596:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1161:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1448:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1447:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1456:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1555:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv434:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv1486:GNU bash, version 4.1.9(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1182:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1464:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1504:GNU bash, version 4.2.50(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1191:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1397:GNU bash, version 3.2.25(1)-release (x86_64-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1484:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1656:GNU bash, version 3.2.25(1)-release (x86_64-redhat-linux-gnu):CentOS release 5.9 (Final)
+srv1436:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1460:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1463:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1472:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1450:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1678:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1695:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1698:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv462:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1677:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1002:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv741:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv835:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1041:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv866:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1029:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1031:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1023:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1187:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1175:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1027:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1637:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1643:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv920:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv958:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1679:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1716:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1717:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1582:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv882:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1726:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1202:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1681:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv659:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv27:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1383:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1748:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv982:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv670:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.6 (Final)
+srv994:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1583:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1587:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1753:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1569:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv766:GNU bash, version 3.2.25(1)-release (x86_64-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1462:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv332:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.6 (Final)
+srv1384:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1571:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1775:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1778:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv663:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1738:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1741:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv904:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1030:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1261:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1755:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1754:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv673:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv425:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1750:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.6 (Final)
+srv779:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1789:GNU bash, version 4.1.2(1)-release (i386-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv1790:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv1800:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1801:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv1802:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1804:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1573:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1231:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv849:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv970:GNU bash, version 3.2.17(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv851:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1796:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv244:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1826:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1849:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1850:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1830:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1805:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1807:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1751:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1752:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1740:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1742:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1851:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1739:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1743:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv776:GNU bash, version 3.2.39(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv1854:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1847:GNU bash, version 3.2.25(1)-release (x86_64-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1257:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1184:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1852:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1722:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1721:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv853:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1857:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1878:GNU bash, version 2.05b.0(1)-release (i386-redhat-linux-gnu):Red Hat Enterprise Linux ES release 3 (Taroon Update 2)
+srv1230:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1720:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1872:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1873:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1874:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1875:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1876:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1882:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1883:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1880:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1881:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1808:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.10 (Final)
+srv1879:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1842:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.10 (Final)
+srv310:GNU bash, version 4.2.51(1)-release (i686-pc-linux-gnu):Gentoo Base System version 1.6.15
+srv1902:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1903:GNU bash, version 4.2.52(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1920:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv860:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1509:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1865:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1927:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.6 (Final)
+srv1866:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.10 (Final)
+srv1867:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.10 (Final)
+srv1868:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1245:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv857:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1869:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.10 (Final)
+srv1908:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1909:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1870:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.10 (Final)
+srv1889:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.9 (Final)
+srv1892:GNU bash, version 3.2.25(1)-release (i686-redhat-linux-gnu):CentOS release 5.3 (Final)
+srv1893:GNU bash, version 2.05b.0(1)-release (i386-redhat-linux-gnu):Fedora Core release 1 (Yarrow)
+srv1963:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.10 (Final)
+srv1895:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.10 (Final)
+srv585:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1906:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1898:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.9 (Final)
+srv1905:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.9 (Final)
+srv1907:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.10 (Final)
+srv1965:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1912:GNU bash, version 3.1.17(1)-release (i486-pc-linux-gnu):4.0
+srv1913:GNU bash, version 3.2.25(1)-release (i686-redhat-linux-gnu):CentOS release 5.9 (Final)
+srv1914:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.9 (Final)
+srv1915:GNU bash, version 3.2.25(1)-release (i686-redhat-linux-gnu):CentOS release 5.8 (Final)
+srv1916:GNU bash, version 3.2.25(1)-release (x86_64-redhat-linux-gnu):CentOS release 5.10 (Final)
+srv1917:GNU bash, version 3.2.25(1)-release (x86_64-redhat-linux-gnu):CentOS release 5.10 (Final)
+srv1918:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1960:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1961:GNU bash, version 3.2.25(1)-release (i686-redhat-linux-gnu):CentOS release 5.8 (Final)
+srv1962:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1964:GNU bash, version 3.2.25(1)-release (x86_64-redhat-linux-gnu):CentOS release 5.10 (Final)
+srv413:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1379:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1839:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1841:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1858:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv2018:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv2019:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv871:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv2043:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv891:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1590:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv1058:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv2047:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv1228:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv907:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1570:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv1441:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv1485:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv639:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1554:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1528:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv1673:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv936:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1828:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1797:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv640:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv104:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv580:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv418:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv30:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv646:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv1505:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv2026:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv1104:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv2057:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv975:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv1838:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv685:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv781:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1035:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1169:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1615:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1629:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1630:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv883:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1749:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.6 (Final)
+srv2075:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1244:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1431:GNU bash, version 4.2.51(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv836:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1682:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv2103:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv1675:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.6 (Final)
+srv1442:GNU bash, version 4.2.20(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv2078:GNU bash, version 4.2.50(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv2079:GNU bash, version 4.2.50(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv1835:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.6 (Final)
+srv2081:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv2136:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2080:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv2086:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv2088:GNU bash, version 4.2.50(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv2095:GNU bash, version 4.2.50(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv415:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv131:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1407:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1515:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1514:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1846:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.6 (Final)
+srv2144:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.3 (Final)
+srv2145:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1248:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1513:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1827:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.6 (Final)
+srv2146:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1253:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2159:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2099:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2107:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2163:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2164:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2165:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2166:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2168:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.6 (Final)
+srv688:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2172:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.1
+srv856:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.4 (Final)
+srv2188:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2187:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2184:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2186:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2185:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1510:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1491:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2102:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2140:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv408:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv729:GNU bash, version 4.2.37(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.1
+srv304:GNU bash, version 4.2.37(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv412:GNU bash, version 4.2.37(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv398:GNU bash, version 4.2.37(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv878:GNU bash, version 4.2.37(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv877:GNU bash, version 4.2.37(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.0.3
+srv2131:GNU bash, version 4.2.45(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.2
+srv2226:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv2227:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv2089:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2139:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv397:GNU bash, version 4.2.50(1)-release (i686-pc-linux-gnu):Gentoo Base System release 2.2
+srv2048:GNU bash, version 3.2.25(1)-release (i386-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv1779:GNU bash, version 4.2.25(1)-release (x86_64-pc-linux-gnu):wheezy/sid
+srv1831:GNU bash, version 3.00.16(1)-release (i386-redhat-linux-gnu):Fedora Core release 4 (Stentz)
+srv1812:GNU bash, version 3.2.25(1)-release (x86_64-redhat-linux-gnu):CentOS release 5.11 (Final)
+srv2234:GNU bash, version 4.2.37(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv46:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.9
+srv34:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.9
+srv2155:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv738:GNU bash, version 4.0.28(2)-release (x86_64-pc-linux-gnu):Gentoo Base System release 1.12.11.1
+srv1836:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2252:GNU bash, version 4.2.53(1)-release (x86_64-pc-linux-gnu):Gentoo Base System release 2.0.2
+srv924:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.6 (Final)
+srv98:GNU bash, version 4.2.53(1)-release (i686-pc-linux-gnu):Gentoo Base System release 1.12.9
+srv2254:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2239:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1614:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1427:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2246:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2273:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2237:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1028:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv2203:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1026:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
+srv1255:GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu):CentOS release 6.5 (Final)
