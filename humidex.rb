@@ -1,4 +1,4 @@
-#!/opt/sensu/embedded/bin/ruby
+#!/usr/bin/ruby
 # Author: Hanine HAMZIOUI
 # Email: hanynowsky@gmail.com
 # Description: This small code parses a matrix CSV file to get the humidex value
